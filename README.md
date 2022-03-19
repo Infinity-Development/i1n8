@@ -7,3 +7,9 @@ Localization files for Infinity Bot List
 - Coming Soon
 
 ---
+
+## Credits
+Made with love by
+
+- Toxic Dev
+- Infinity Bot List Community
