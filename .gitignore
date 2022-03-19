@@ -1,2 +1,5 @@
 # Ignore Exmaples Dir
 examples/
+examples/express.app.js
+examples/i1n8.lib.js
+examples/view.template.ejs
