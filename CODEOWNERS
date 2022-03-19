@@ -1,0 +1,10 @@
+# Main Files
+README.md @TheRealToxicDev
+CODEOWNERS @TheRealToxicDev
+
+# Example Setups
+examples/ @TheRealToxicDev
+
+# Locale Files
+locales/en-US.js @TheRealToxicDev
+locales/es-ES.js @TheRealToxicDev

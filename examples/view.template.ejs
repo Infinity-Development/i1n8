@@ -1,0 +1,22 @@
+<html lang="<%= locale %>">
+  <head>
+    <title><%= translate ('title') %></title>
+  </head>
+  <body>
+    <h1><%= translate('title') %></h1>
+    <h3><%= translate('description') %></h3>
+    <hr />
+    <h1><%=translate('select_lang') %></h1>
+    <ol>
+      <li>
+        <a href="/"><%= translate('def_lang') %></a>
+      </li>
+      <li>
+        <a href="/?lang=en-US"><%= translate('en_lang') %></a>
+      </li>
+      <li>
+        <a href="/?lang=es-ES"><%= translate('es_lang') %></a>
+      </li>
+    </ol>
+  </body>
+</html>
