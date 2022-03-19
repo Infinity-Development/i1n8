@@ -1,4 +1,4 @@
-odule.exports = {
+module.exports = {
     /** Title Text */
     "site_name": "Infinity Bot List",
     /** NavBar Text */
