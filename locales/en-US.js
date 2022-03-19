@@ -10,7 +10,7 @@ module.exports = {
         "partners": "Partners",
         "docs_site": "Docs",
         "bot_queue": "Queue",
-        "ibl_status": "Queue",
+        "ibl_status": "Status",
     },
     /** User Nav Text */
     "user_nav": {
