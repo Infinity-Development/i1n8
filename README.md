@@ -4,7 +4,8 @@ Localization files for Infinity Bot List
 ---
 
 ## Contributing
-- Coming Soon
+- All the Locales/Language files are located in `/locales`
+- Please follow the layout provided when updating or adding languages
 
 ---
 
