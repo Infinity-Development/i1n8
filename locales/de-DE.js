@@ -20,7 +20,7 @@ module.exports = {
         "add_pack": "Packet hinzufügen",
         "premium": "Premium",
         "cert_bot": "Zertifizieren",
-        "ibl_stats": "Statistika",
+        "ibl_stats": "Statistiken",
         "news_title": "Neues",
     },
   "site_general":{
