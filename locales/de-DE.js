@@ -9,7 +9,7 @@ module.exports = {
         "bot_packs": "Packete",
         "partners": "Partner",
         "docs_site": "Dokumentation",
-        "bot_queue": "Warteschlane",
+        "bot_queue": "Warteschlange",
         "ibl_status": "Status",
     },
     /** User Nav Text */
@@ -20,7 +20,7 @@ module.exports = {
         "add_pack": "Packet hinzufügen",
         "premium": "Premium",
         "cert_bot": "Zertifizieren",
-        "ibl_stats": "Statistika",
+        "ibl_stats": "Statistiken",
         "news_title": "Neues",
     },
   "site_general":{
