@@ -10,8 +10,9 @@ Localization/Translation files for Infinity Bot List
 
 ---
 
-## Credits
-Made with love by
+## Contributors
+<a href="https://github.com/InfinityBotList/i1n8/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=InfinityBotList/i1n8" />
+</a>
 
-- Toxic Dev
-- Infinity Bot List Community
+Made with [contrib.rocks](https://contrib.rocks).
