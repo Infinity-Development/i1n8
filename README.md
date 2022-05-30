@@ -1,5 +1,5 @@
 # i1n8
-Localization/Translation files for Infinity Bot List
+Localization/Translation files for the Infinity Bot List Website
 
 ---
 
